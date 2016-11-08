@@ -39,4 +39,5 @@ if L then
 	L.custom_off_blade_marker_desc = "Markiert die Ziele von Alptraumklingen mit {rt1}{rt2}, benötigt Leiter oder Assistent."
 
 	L.linked = "Schreckensbindungen auf DIR! – Verbunden mit %s!"
+	L.dreamHealers = "Traumheiler"
 end
